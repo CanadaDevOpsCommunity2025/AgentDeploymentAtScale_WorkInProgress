@@ -7,14 +7,13 @@ Group Name: **Work In Progress**
 Main Participant Name: **Muhammad Bilal Khan**
 
 Team Participant Names:
-TBD
+**Pavan Kumar**
+**Richard Ologbo**
 
 ---------------------------------------------------------
 
-AWS Codes:
+# LaTeX Resume Agent
 
-
-Muhammad Bilal Khan:  XXXXXXXXXXX
-
-For Credit details please Contact administrator on Slack
-https://app.slack.com/huddle/T01BN24U54L/C08SF5BUGN4
+This repo is for an AI Agent built using LangChain, that does two things:
+- Has tools to modify and edit latex documents
+- Fine-tuned to modify latex-written resumes to model a given job description, while maintaining points made in original resume
